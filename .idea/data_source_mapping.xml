@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="DataSourcePerFileMappings">
-    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/d388d91e-2a41-4543-9e8f-8e6a68809558/console.sql" value="d388d91e-2a41-4543-9e8f-8e6a68809558" />
-    <file url="mock:///main.go" value="d388d91e-2a41-4543-9e8f-8e6a68809558" />
-  </component>
-</project>

@@ -2,5 +2,8 @@
 <project version="4">
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/sql/queries/0002_users.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/sql/schema/0001_number_name.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/sql/schema/0003_refresh_tokens.sql" dialect="PostgreSQL" />
+    <file url="PROJECT" dialect="PostgreSQL" />
   </component>
 </project>

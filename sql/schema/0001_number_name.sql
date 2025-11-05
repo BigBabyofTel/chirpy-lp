@@ -15,5 +15,7 @@ CREATE TABLE chirps (
 );
 
 -- +goose Down
-DROP TABLE users;
-DROP TABLE chirps;
+DROP TABLE IF EXISTS chirps;
+DROP TABLE IF EXISTS users;
+
+
